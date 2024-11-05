@@ -49,3 +49,8 @@ To run the project, execute the `main.py` file: `python main.py`
 - **plot_water_per_capita**: Yıllara göre kişi başına düşen su miktarının trendini gösterir. / Shows the trend of per capita water usage over the years.
 - **correlation_analysis**: Veriler arasındaki ilişkileri görselleştirmek için korelasyon matrisi oluşturur. / Creates a correlation matrix to visualize relationships between data variables.
 
+![Figure_1](https://github.com/user-attachments/assets/38d4a157-c8dd-4dcb-ae92-88f023f7ef65)
+
+![Figure_2](https://github.com/user-attachments/assets/ee08e421-b8c5-42b8-af6b-7354602db601)
+
+![Figure_3](https://github.com/user-attachments/assets/546c7a78-16dd-4c62-b673-258906b686de)
